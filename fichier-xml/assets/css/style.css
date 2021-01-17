@@ -1,0 +1,50 @@
+
+.image-responsive{
+    width: 6rem;
+}
+
+.title {
+    color: orange;
+}
+
+.titleMenu {
+    display: block;
+    padding: .5rem 1rem;
+    font-size: 1.5rem;
+    color:white;
+    text-align: center;
+}
+
+.titleMenu:hover {
+    text-decoration:none;
+    color:orange;
+}
+
+.titlePage {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    margin: 2rem;
+}
+
+.content1, .content2, .content3, .content4 { 
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.text {
+    font-size: 1.5rem;
+}
+
+.caption-text {
+   text-align: center;
+}
+
+.error404 {
+    background-image: url(../img/error.jpg);
+    background-size: cover; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
